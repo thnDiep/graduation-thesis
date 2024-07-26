@@ -1,0 +1,13 @@
+Initial balance: 1000.00
+Final balance: 1000.00
+Net Profit (NP): 0.00
+Number of trades (#T): 0
+Number of winning trades: 0
+Number of losing trades: 0
+Win/Loss: inf
+Profit factor (PF): inf
+Percent Profitable (PP): 0.00 %
+Average Profit per trade (T): 0.00
+Shape ratio (SR): nan
+Sortino ratio (SorR): 0.00
+Maximum drawdown (MDD): nan

@@ -1,0 +1,13 @@
+Initial balance: 1000.00
+Final balance: 1550.10
+Net Profit (NP): 550.10
+Number of trades (#T): 34
+Number of winning trades: 22
+Number of losing trades: 12
+Win/Loss: 1.83
+Profit factor (PF): 2.37
+Percent Profitable (PP): 64.71 %
+Average Profit per trade (T): 16.18
+Shape ratio (SR): 0.16
+Sortino ratio (SorR): 0.20
+Maximum drawdown (MDD): 1.82
