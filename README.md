@@ -33,7 +33,7 @@ Dự đoán xu hướng thị trường tài chính là một nhiệm vụ phứ
 ## Hướng dẫn
 Để chạy code, sử dụng câu lệnh:
 ```shell
-python main.py -t <trader> -m <model> -w <window_size> -d <dataset> -n <nep>`
+python main.py -t <trader> -m <model> -w <window_size> -d <dataset> -n <nep>
 ```
 * `trader` bao gồm các loại đào tạo mô hình. Mặc định là `test`.
   * `train`: Chỉ huấn luyện mô hình. Sử dụng tùy chọn này khi bạn muốn mô hình học từ dữ liệu huấn luyện và cập nhật các tham số của nó.
